@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SNCT</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="nome_avaliador">Nome do Avaliador</string>
+    <string name="titulo_trabalho">Título do Trabalho</string>
+    <string name="nota">Nota</string>
+    <string name="comentarios">Comentários</string>
+    <string name="avaliar">Avaliar</string>
+    <string name="contar">Contar Avaliações</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="bem_vindo">Bem Vindo</string>
+
+</resources>
